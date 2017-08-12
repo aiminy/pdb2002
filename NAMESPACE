@@ -1,0 +1,2 @@
+importFrom(bio3d,read.pdb)
+export(preparePdbFile)

@@ -1,0 +1,15 @@
+Package: pdb2002
+Type: Package
+Title: An R Package for Protein Structure Analysis
+Version: 0.99.0
+Author: Aimin Yan
+Maintainer: Aimin Yan <aimin.at.work@gmail.com>
+Depends: R (>= 3.4.0)
+Imports: bio3d
+Suggests: testthat, knitr, rmarkdown
+VignetteBuilder: knitr
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
